@@ -36,3 +36,13 @@ ul, ol {
     padding-left: 20px;
 
 }
+.bilder {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.bilder img {
+  width: 180px;
+  border-radius: 15px;
+}
