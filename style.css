@@ -46,3 +46,8 @@ ul, ol {
   width: 180px;
   border-radius: 15px;
 }
+body{
+    max-width: 800px;
+    margin: 0 auto;
+
+}
