@@ -1,6 +1,6 @@
 body{
     background-color : #fdf6eccd ;
-    text-align: left ;
+    text-align: left;
     padding: 20px ;
 }
 img{
@@ -34,7 +34,7 @@ p{
 
 ul, ol {
     padding-left: 20px;
-
+    
 }
 .bilder {
   display: flex;
